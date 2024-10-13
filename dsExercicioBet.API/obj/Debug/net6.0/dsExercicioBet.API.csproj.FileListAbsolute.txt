@@ -40,3 +40,16 @@ E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\obj\Debug\net6.0\d
 E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\obj\Debug\net6.0\ref\dsExercicioBet.API.dll
 E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\dsExercicioBet.Domain.dll
 E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\dsExercicioBet.Domain.pdb
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\JWT.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\JWT.Extensions.DependencyInjection.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

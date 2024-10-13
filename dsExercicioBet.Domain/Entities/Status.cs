@@ -2,6 +2,6 @@
 
 public enum Status
 {
-    ABERTO,
-    FECHADO
+    ABERTO,// 0
+    FECHADO // 1
 }

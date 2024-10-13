@@ -1,0 +1,12 @@
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\bin\Debug\net6.0\dsExercicioBet.Application.deps.json
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\bin\Debug\net6.0\dsExercicioBet.Application.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\bin\Debug\net6.0\dsExercicioBet.Application.pdb
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\obj\Debug\net6.0\dsExercicioBet.Application.csproj.AssemblyReference.cache
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\obj\Debug\net6.0\dsExercicioBet.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\obj\Debug\net6.0\dsExercicioBet.Application.AssemblyInfoInputs.cache
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\obj\Debug\net6.0\dsExercicioBet.Application.AssemblyInfo.cs
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\obj\Debug\net6.0\dsExercicioBet.Application.csproj.CoreCompileInputs.cache
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\obj\Debug\net6.0\dsExercicioBet.Application.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\obj\Debug\net6.0\refint\dsExercicioBet.Application.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\obj\Debug\net6.0\dsExercicioBet.Application.pdb
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Application\obj\Debug\net6.0\ref\dsExercicioBet.Application.dll

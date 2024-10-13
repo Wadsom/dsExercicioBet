@@ -11,4 +11,5 @@ public class Usuario
     public List<Transacao> Transacaos { get; private set; }
     public List<Aposta> Apostas { get; private set; }
     
+
 }
