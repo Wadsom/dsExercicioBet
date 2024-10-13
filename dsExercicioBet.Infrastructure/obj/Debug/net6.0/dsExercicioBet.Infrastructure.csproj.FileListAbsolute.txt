@@ -1,0 +1,17 @@
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\bin\Debug\net6.0\dsExercicioBet.Infrastructure.deps.json
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\bin\Debug\net6.0\dsExercicioBet.Infrastructure.runtimeconfig.json
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\bin\Debug\net6.0\dsExercicioBet.Infrastructure.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\bin\Debug\net6.0\dsExercicioBet.Infrastructure.pdb
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\obj\Debug\net6.0\dsExercicioBet.Infrastructure.csproj.AssemblyReference.cache
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\obj\Debug\net6.0\dsExercicioBet.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\obj\Debug\net6.0\dsExercicioBet.Infrastructure.AssemblyInfoInputs.cache
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\obj\Debug\net6.0\dsExercicioBet.Infrastructure.AssemblyInfo.cs
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\obj\Debug\net6.0\dsExercicioBet.Infrastructure.csproj.CoreCompileInputs.cache
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\obj\Debug\net6.0\dsExercicioBet.Infrastructure.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\obj\Debug\net6.0\refint\dsExercicioBet.Infrastructure.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\obj\Debug\net6.0\dsExercicioBet.Infrastructure.pdb
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\obj\Debug\net6.0\dsExercicioBet.Infrastructure.genruntimeconfig.cache
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\obj\Debug\net6.0\ref\dsExercicioBet.Infrastructure.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\bin\Debug\net6.0\dsExercicioBet.Domain.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\bin\Debug\net6.0\dsExercicioBet.Domain.pdb
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Infrastructure\obj\Debug\net6.0\dsExercicioBet.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,14 @@
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\bin\Debug\net6.0\dsExercicioBet.Domain.deps.json
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\bin\Debug\net6.0\dsExercicioBet.Domain.runtimeconfig.json
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\bin\Debug\net6.0\dsExercicioBet.Domain.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\bin\Debug\net6.0\dsExercicioBet.Domain.pdb
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\obj\Debug\net6.0\dsExercicioBet.Domain.csproj.AssemblyReference.cache
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\obj\Debug\net6.0\dsExercicioBet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\obj\Debug\net6.0\dsExercicioBet.Domain.AssemblyInfoInputs.cache
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\obj\Debug\net6.0\dsExercicioBet.Domain.AssemblyInfo.cs
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\obj\Debug\net6.0\dsExercicioBet.Domain.csproj.CoreCompileInputs.cache
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\obj\Debug\net6.0\dsExercicioBet.Domain.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\obj\Debug\net6.0\refint\dsExercicioBet.Domain.dll
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\obj\Debug\net6.0\dsExercicioBet.Domain.pdb
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\obj\Debug\net6.0\dsExercicioBet.Domain.genruntimeconfig.cache
+E:\CSharop-LuisDev\Projetos\dsExercicioBet\dsExercicioBet.Domain\obj\Debug\net6.0\ref\dsExercicioBet.Domain.dll
