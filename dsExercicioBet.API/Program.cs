@@ -1,8 +1,13 @@
 using System.Text;
+using dsExercicioBet.Application.Commands.NovoUsuario;
+using dsExercicioBet.Application.Queries.Login;
 using dsExercicioBet.Domain.Auth;
 using dsExercicioBet.Domain.DTO;
+using dsExercicioBet.Domain.Repository;
 using dsExercicioBet.Infrastructure.Auth;
 using dsExercicioBet.Infrastructure.Persistence;
+using dsExercicioBet.Infrastructure.Persistence.Repository;
+using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -17,7 +22,6 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
-       
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "DsExercicioBet.API", Version = "v1" });
 
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
@@ -41,14 +45,13 @@ builder.Services.AddSwaggerGen(c =>
                     Id = "Bearer"
                 }
             },
-            new string[] {}
+            new string[] { }
         }
     });
 });
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
-        
         options.TokenValidationParameters = new TokenValidationParameters()
         {
             ValidateIssuer = true,
@@ -56,17 +59,24 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateLifetime = true,
             ValidateIssuerSigningKey = true,
 
-            ValidIssuer = builder.Configuration["Auth:Issued"],
+            ValidIssuer = builder.Configuration["Auth:Issuer"],
             ValidAudience = builder.Configuration["Auth:Audience"],
             IssuerSigningKey = new SymmetricSecurityKey
                 (Encoding.UTF8.GetBytes(builder.Configuration["Auth:SecretKey"]))
         };
     });
-builder.Services.AddDbContext<DsExercicioBetDbContext>(options=>
+builder.Services.AddDbContext<DsExercicioBetDbContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"))
-    );
+);
 builder.Services.AddSingleton<IPerfil, Perfil>();
 builder.Services.AddScoped<IAuthService, AuthServiceImpl>();
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<IEventoRepository, EventoRepository>();
+builder.Services.AddScoped<IApostaRepository, ApostaRepository>();
+builder.Services.AddScoped<ITransacaoRepository, TransacaoRepository>();
+builder.Services.AddMediatR(typeof(LoginQuery));
+builder.Services.AddMediatR(typeof(NovoUsuarioCommand));
+
 
 var app = builder.Build();
 

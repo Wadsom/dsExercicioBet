@@ -8,6 +8,7 @@
 
     <ItemGroup>
         <PackageReference Include="JWT.Extensions.DependencyInjection" Version="3.0.0-beta2" />
+        <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
         <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.35" />
         <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.35" />
         <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.35">
@@ -23,16 +24,11 @@
         <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.1.2" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Compile Remove="WeatherForecast.cs" />
-    </ItemGroup>
+  
 
     <ItemGroup>
+      <ProjectReference Include="..\dsExercicioBet.Application\dsExercicioBet.Application.csproj" />
       <ProjectReference Include="..\dsExercicioBet.Infrastructure\dsExercicioBet.Infrastructure.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Controllers\" />
     </ItemGroup>
 
 </Project>

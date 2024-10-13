@@ -8,8 +8,8 @@ public class Usuario
     public string  Senha { get; private set; }
     public double Saldo { get; private set; }
     public string Cargo { get; private set; }
-    public List<Transacao> Transacaos { get; private set; }
-    public List<Aposta> Apostas { get; private set; }
-    
+    public List<Transacao> Transacaos { get; private set; } = new List<Transacao>();
+    public List<Aposta> Apostas { get; private set; } = new List<Aposta>();
+
 
 }

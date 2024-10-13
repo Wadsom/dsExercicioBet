@@ -17,7 +17,7 @@ public class AuthServiceImpl : IAuthService
         _configuration = configuration;
     }
 
-    public string GenerateToken(string email, string role)
+    public string GenerateToken(string email, string cargo)
     {
         var issuer = _configuration["Auth:Issuer"];
         var audience = _configuration["Auth:Audience"];
@@ -28,7 +28,7 @@ public class AuthServiceImpl : IAuthService
         var claim = new List<Claim>
         {
             new Claim("Username", email),
-            new Claim(ClaimTypes.Role, role)
+            new Claim(ClaimTypes.Role, cargo)
         };
         var jht = new JwtSecurityToken(
             issuer: issuer,

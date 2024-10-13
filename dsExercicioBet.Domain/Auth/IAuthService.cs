@@ -2,6 +2,6 @@
 
 public interface IAuthService
 {
-    string GenerateToken(string email, string role);
+    string GenerateToken(string email, string cargo);
     string ComputedHashPassword(string senha);
 }
